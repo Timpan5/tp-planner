@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_courses">ViewCourses</string>
+    <string name="title_activity_courses">Courses</string>
+    <string name="title_activity_select_course">SelectCourse</string>
+    <string name="title_activity_select_task_type">SelectTaskType</string>
+    <string name="title_activity_create_exercise">CreateExercise</string>
+    <string name="title_activity_create_assignment">CreateAssignment</string>
+    <string name="title_activity_create_project">CreateProject</string>
+    <string name="title_activity_create_meeting">CreateMeeting</string>
+    <string name="title_activity_view_list">ViewList</string>
+    <string name="title_activity_detail_view">detailView</string>
+</resources>
